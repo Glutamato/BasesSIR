@@ -16,9 +16,6 @@ Student on Education, motivated to share what I've learned. ICT enthusiast as a 
    :camera: Also, I'm a hobby photographer.
 
    [LinkedIn](https://www.linkedin.com/in/arturo-barrios-198507/)
-
    [Blog](https://hcommons.org/members/barriosa85/)
-
    Twitter [@Barrios_tic](https://twitter.com/barrios_tic)
-
    Instagram [@Barrios_tic](https://www.instagram.com/barrios_tic/)
