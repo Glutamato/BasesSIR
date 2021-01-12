@@ -22,3 +22,15 @@ Student on Education, motivated to share what I've learned. ICT enthusiast as a 
    Twitter [@Barrios_tic](https://twitter.com/barrios_tic)
 
    Instagram [@Barrios_tic](https://www.instagram.com/barrios_tic/)
+
+**Social Media Profiles:**
+
+<a href="https://platzi.com/p/Barrios_TIC/">
+    <img width="72" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Platzi.jpg" />
+</a>
+<a href="https://twitter.com/barrios_tic">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/barrios-tic/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
